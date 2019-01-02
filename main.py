@@ -1,11 +1,7 @@
-gameVersion = "v0.0.2"
+gameVersion = "v0.0.3"
 
 #######################################
 ############ New Direction ############
-#######################################
-# Author: Frederik Holm Strøm         #
-# Website: https://frederikstroem.com #
-# Inquiries: mail@frederikstroem.com  #
 #######################################
 
 # Avoid displaying pygame standard start message.
